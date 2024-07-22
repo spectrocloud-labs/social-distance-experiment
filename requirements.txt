@@ -1,0 +1,7 @@
+#numpy
+#numpy==1.19.2
+scipy==1.5.4
+imutils==0.5.3
+#opencv-python==4.3.0.38
+schedule
+argparse==1.4.0
